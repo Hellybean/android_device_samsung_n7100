@@ -21,4 +21,5 @@
 
     <!-- Home button wake support -->
     <bool name="config_show_homeWake">true</bool>
+
 </resources>
